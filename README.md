@@ -13,13 +13,14 @@ A few resources to get you started if this is your first Flutter project:
 
 ## Screenshot
 
+> <img src="assets\image\f4.png" height="500">
+> <img src="assets\image\f10.png" height="500">
+
 > <img src="assets\image\f1.png" height="500">
 
 > <img src="assets\image\f2.png" height="500">
 
 > <img src="assets\image\f3.png" height="500">
-
-> <img src="assets\image\f4.png" height="500">
 
 > <img src="assets\image\f5.png" height="500">
 
@@ -30,8 +31,6 @@ A few resources to get you started if this is your first Flutter project:
 > <img src="assets\image\f8.png" height="500">
 
 > <img src="assets\image\f9.png" height="500">
-
-> <img src="assets\image\f10.png" height="500">
 
 > <img src="assets\image\f11.png" height="500">
 
